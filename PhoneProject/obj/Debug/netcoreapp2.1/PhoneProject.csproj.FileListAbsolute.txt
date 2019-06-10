@@ -1,0 +1,11 @@
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-phone/PhoneProject/bin/Debug/netcoreapp2.1/PhoneProject.deps.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-phone/PhoneProject/bin/Debug/netcoreapp2.1/PhoneProject.runtimeconfig.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-phone/PhoneProject/bin/Debug/netcoreapp2.1/PhoneProject.runtimeconfig.dev.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-phone/PhoneProject/bin/Debug/netcoreapp2.1/PhoneProject.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-phone/PhoneProject/bin/Debug/netcoreapp2.1/PhoneProject.pdb
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-phone/PhoneProject/obj/Debug/netcoreapp2.1/PhoneProject.csprojAssemblyReference.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-phone/PhoneProject/obj/Debug/netcoreapp2.1/PhoneProject.csproj.CoreCompileInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-phone/PhoneProject/obj/Debug/netcoreapp2.1/PhoneProject.AssemblyInfoInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-phone/PhoneProject/obj/Debug/netcoreapp2.1/PhoneProject.AssemblyInfo.cs
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-phone/PhoneProject/obj/Debug/netcoreapp2.1/PhoneProject.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-phone/PhoneProject/obj/Debug/netcoreapp2.1/PhoneProject.pdb
