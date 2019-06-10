@@ -10,7 +10,7 @@ namespace PhoneProject.GalaxyClass
         public string Ring ()
         {
             // your code here
-            return Ringtone;
+            return "\n... " + Ringtone + " ...";
         }
         public string Unlock ()
         {

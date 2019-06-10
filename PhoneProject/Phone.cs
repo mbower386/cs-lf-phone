@@ -19,22 +19,22 @@ namespace PhoneProject.PhoneClass
         // public getters and setters removed for brevity. Please implement them yourself
         public string VersionNumber
         {
-            get;
+            get { return _versionNumber; }
         }
 
         public int BatteryPercentage
         {
-            get;
+            get { return _batteryPercentage; }
         }
 
         public string Carrier
         {
-            get;
+            get { return _carrier; }
         }
 
         public string Ringtone
         {
-            get;
+            get { return _ringTone; }
         }
     }
 }
